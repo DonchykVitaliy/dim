@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:palm",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 279937226,
+    "spacing": 19,
+    "separation": 14
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:lighthouse",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 207695518,
+    "spacing": 22,
+    "separation": 16
+  }
+}

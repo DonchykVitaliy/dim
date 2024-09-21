@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:gallows",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 25542199,
+    "spacing": 24,
+    "separation": 12
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:raft",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 49945234,
+    "spacing": 45,
+    "separation": 37
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:jackdaw",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 51265877,
+    "spacing": 85,
+    "separation": 55
+  }
+}

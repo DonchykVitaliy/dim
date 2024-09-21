@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:turtle_island",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 34991906,
+    "spacing": 45,
+    "separation": 40
+  }
+}

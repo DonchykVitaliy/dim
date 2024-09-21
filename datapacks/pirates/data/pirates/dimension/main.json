@@ -1,0 +1,25 @@
+{
+  "type": "pirates:main",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "pirates:main",
+      "lakes": false,
+      "features": false,
+      "layers": [
+	  {
+          "block": "minecraft:bedrock",
+          "height": 3
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 90
+        },
+        {
+          "block": "minecraft:barrier",
+          "height": 5
+        }
+      ]
+    }
+  }
+}

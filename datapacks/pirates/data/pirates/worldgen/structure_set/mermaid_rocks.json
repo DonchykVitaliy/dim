@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:mermaid_rocks",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 737190483,
+    "spacing": 70,
+    "separation": 45
+  }
+}

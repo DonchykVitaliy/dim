@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:barrel_beach",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 95216145,
+    "spacing": 25,
+    "separation": 13
+  }
+}

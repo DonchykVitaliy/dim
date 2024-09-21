@@ -1,0 +1,2 @@
+execute in pirates:main positioned 0 0 0 unless entity @e[type=marker,tag=pir.dim_arena.bb] run summon marker 0 0 0 {Tags:["pir.dim_arena.bb"]}
+execute in pirates:main positioned 0 0 0 as @e[type=marker,tag=pir.dim_arena.bb,tag=!pir.arena_refresh] at @s run function pirates:dimension/setup

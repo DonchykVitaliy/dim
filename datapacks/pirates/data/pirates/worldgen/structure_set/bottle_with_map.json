@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:bottle_with_map",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 734102544,
+    "spacing": 15,
+    "separation": 13
+  }
+}

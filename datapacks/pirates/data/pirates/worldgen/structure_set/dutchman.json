@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "pirates:dutchman",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 95380155,
+    "spacing": 120,
+    "separation": 75
+  }
+}
